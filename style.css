@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: #333;
+}
+
+div {
+  padding: 10px;
+}
+
+a {
+  color: #4296b9;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  padding-left: 10px;
+}
